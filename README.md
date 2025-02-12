@@ -28,4 +28,4 @@ The dataset is sourced from **Food.com**, containing over **10,000+ vegetarian r
 🔹 **Data Processing**: Python (Pandas, NumPy) for cleaning and feature engineering  
 🔹 **Web Interface (Optional)**: Streamlit-based UI for chatbot interactions  
 
-📽️ [Watch the demo video](video/demo.mp4)
+📽️ [Watch the demo video](video/demo.mov)
